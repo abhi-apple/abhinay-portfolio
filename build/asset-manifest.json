@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6b9dd42d.css",
+    "main.js": "/static/js/main.ffda6b29.js",
+    "static/media/SqlLogo.png": "/static/media/SqlLogo.85fb38d6773862e917f4.png",
+    "static/media/MongoDBLogo.png": "/static/media/MongoDBLogo.1df44ece8cf851cecf69.png",
+    "static/media/angularLogo.png": "/static/media/angularLogo.17ca640487494f28400f.png",
+    "static/media/NodeJSLogo.png": "/static/media/NodeJSLogo.aabc0115471d1e8b2d6e.png",
+    "static/media/projimg.webp": "/static/media/projimg.001f13e23c1b55385d0a.webp",
+    "static/media/ReactLogo.png": "/static/media/ReactLogo.37940586dd863909ffca.png",
+    "static/media/TailwindLogo.png": "/static/media/TailwindLogo.36b2728bf0d14b7b7576.png",
+    "static/media/PythonLogo.png": "/static/media/PythonLogo.2e65c2b73eddaaf97e06.png",
+    "static/media/threadslogo.png": "/static/media/threadslogo.a35d24a7ce7f492eea25.png",
+    "static/media/TypescriptLogo.png": "/static/media/TypescriptLogo.c4105801aadf2606ac30.png",
+    "static/media/resumelogo.png": "/static/media/resumelogo.60c4f53d340d7c84130f.png",
+    "static/media/skillslogo.png": "/static/media/skillslogo.aaf481eef3271343b8b1.png",
+    "static/media/homelogo.png": "/static/media/homelogo.39442527077ab5b89021.png",
+    "static/media/GitLogo.png": "/static/media/GitLogo.553c66159c5672f25df6.png",
+    "static/media/ReduxLogo.png": "/static/media/ReduxLogo.296b9306ae3e4de348c6.png",
+    "static/media/LinkedinLogo.png": "/static/media/LinkedinLogo.d21b834035baa551e886.png",
+    "static/media/hululogo.png": "/static/media/hululogo.576a8ba97065d456f208.png",
+    "static/media/maill.png": "/static/media/maill.f63e314696a068b00d5b.png",
+    "static/media/abhinayF.gif": "/static/media/abhinayF.ff694419ac729a24f15f.gif",
+    "static/media/FirebaseLogo.png": "/static/media/FirebaseLogo.a5f9f1fd96c36040dd43.png",
+    "static/media/aboutlogo.png": "/static/media/aboutlogo.b5944b4c04bdb151f4dd.png",
+    "static/media/blockmat.png": "/static/media/blockmat.c6963ef8b27ccc7f8145.png",
+    "static/media/applelogo.png": "/static/media/applelogo.7f02b7ade92d712c6053.png",
+    "static/media/MailLogo.png": "/static/media/MailLogo.23d2a9b0f4cc2cae2ed1.png",
+    "static/media/JsLogo.png": "/static/media/JsLogo.db393457bf6303d846d6.png",
+    "static/media/Leetcode.webp": "/static/media/Leetcode.f2c8d42f1712f979f0db.webp",
+    "index.html": "/index.html",
+    "main.6b9dd42d.css.map": "/static/css/main.6b9dd42d.css.map",
+    "main.ffda6b29.js.map": "/static/js/main.ffda6b29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b9dd42d.css",
+    "static/js/main.ffda6b29.js"
+  ]
+}
