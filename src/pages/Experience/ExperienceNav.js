@@ -66,6 +66,49 @@ const ExperienceNav = ({ showPage, setShowPage, hidePage, setHidePage }) => {
           Experience.js
         </Container>
       )}
+      {hidePage.includes("knolskape") ? null : showPage === "knolskape" ? (
+        <ActiveContainer
+          onClick={() => {
+            setShowPage("knolskape");
+          }}
+        >
+          <img
+            src={JSIcon}
+            alt="JS Icon"
+            className="w-7 mr-1  text-yellow_vs"
+          />
+          knolskape.js
+          <XIcon
+            className="w-6 ml-4 hover:bg-gray-600 hover:rounded"
+            onClick={(e) => {
+              e.stopPropagation();
+              setShowPage("experienceHeader");
+              setHidePage((prevState) => [...prevState, "knolskape"]);
+            }}
+          />
+        </ActiveContainer>
+      ) : (
+        <Container
+          onClick={() => {
+            setShowPage("knolskape");
+          }}
+        >
+          <img
+            src={JSIcon}
+            alt="JS Icon"
+            className="w-7 mr-1  text-yellow_vs"
+          />
+          knolskape.js
+          <XIcon
+            className="w-6 ml-4 hover:bg-gray-600 hover:rounded"
+            onClick={(e) => {
+              e.stopPropagation();
+              setShowPage("experienceHeader");
+              setHidePage((prevState) => [...prevState, "knolskape"]);
+            }}
+          />
+        </Container>
+      )}
       {hidePage.includes("stackpro") ? null : showPage === "stackpro" ? (
         <ActiveContainer
           onClick={() => {

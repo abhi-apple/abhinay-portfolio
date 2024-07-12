@@ -17,14 +17,20 @@ const About = () => {
         </div>
         <div className="text-[#a2aabc] text-lg mt-5">
           <code>
-            Experienced FullStack developer skilled in MERN stack with expertise
-            in blockchain, AI-integrated e-commerce, and cryptocurrency apps.
-            Proficient in ReactJS, NextJS, and Tailwind CSS for seamless UI/UX
-            and MongoDB , NodeJS,Express Js , Django for Backend Integrations.
-            Solved 1000+ Leetcode problems by maintaining 1+ Year streak,
-            showcasing strong problem-solving. Seeking FullStack role to
-            contribute at all project stages, leveraging a holistic
-            understanding of development processes.
+            I am a full-stack developer with a BTech in Computer Science,
+            Interned at Knolskape. I worked on a simulation website using
+            TypeScript, Grommet, and MongoDB. Previously, I developed a
+            test-conducting platform using Angular and Django at StackPro. I
+            have built and upgraded an e-commerce site using the MERN stack and
+            Next.js, and transitioned the back-end from REST API to GraphQL. At
+            Blockmatrix IT Solutions, I contributed to dynamic bidding for an
+            NFT trading application and updated a hospital's doctor appointment
+            booking site. With over 1100 problems solved on LeetCode, I have a
+            500+ day streak and a 1700+ contest rating. My tech stack includes
+            Python, JavaScript, HTML, MongoDB, SQL, GraphQL, Node.js, Next.js,
+            React.js, and Tailwind CSS. I excel in problem-solving,
+            self-learning, and teamwork. My hobbies include upskilling,
+            problem-solving, and exploring space and the universe.
           </code>
 
           <a

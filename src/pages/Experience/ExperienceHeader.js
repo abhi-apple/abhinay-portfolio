@@ -16,12 +16,9 @@ function ExperienceHeader() {
       </div>
       <div className="mx-12  mb-8 text-lightblue_vs">
         <code>
-          Recently I have joined a startup named Stackpro as fullstack intern
-          where currently I am working an test conducting platform like
-          hackerrank and we are using angular for the frontend and Django for
-          backend Along with that I have also worked as Full stack intern in my
-          2nd year at Blockmatrix IT Solutions. There I have worked on 3
-          projects in which 2 were on Fullstack and one was on Blockchain
+          Currently, I am serving my notice period at Knolskape, where I worked
+          on a simulation website using Nextjs, TypeScript, Grommet, and NodeJs,
+          MongoDB
         </code>
       </div>
 

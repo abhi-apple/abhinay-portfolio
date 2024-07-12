@@ -1,5 +1,5 @@
 import React from "react";
-import myImg from "../../assets/logos/abhinayF.gif";
+import myImg from "../../assets/logos/abhinayF.JPG";
 
 function Header() {
   return (
@@ -11,7 +11,7 @@ function Header() {
         <img
           src={myImg}
           alt="Abhinay's Profile"
-          className="rounded-full w-40 h-40  mb-4"
+          className="rounded-full w-40 h-40  mb-4 object-cover"
         />
         <code className="text-lightblue_vs text-xl">Myself Abhinay</code>
         <code className="text-lightblue_vs text-xl">FullStack Developer </code>

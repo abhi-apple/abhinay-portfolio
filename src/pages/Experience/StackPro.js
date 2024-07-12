@@ -22,43 +22,37 @@ function StackPro() {
           <ol>
             <li>
               <code>
-                1. Software Developer Intern at StackPro contributing since Sep
-                2023
+                1. Worked on a test-conducting platform similar to HackerRank
+                using Angular 14, Tailwind CSS, and Django.
               </code>
             </li>
             <li>
               <code>
-                2. Currently working on a Test Conducting platform similar to
-                HackerRank using Angular 14 Tailwind CSS and Django
+                2. Led the translation of Figma designs into a responsive,
+                user-centric front-end, implementing OOP principles to
+                efficiently structure components across project directories.
               </code>
             </li>
             <li>
               <code>
-                3. Successfully led the translation of Figma designs into a
-                responsive user-centric front-end implementing OOP principles
-                for efficient component structuring across project directories
+                3. Engineered a substantial 50% performance improvement in page
+                load times through code refactoring, applying advanced DSA
+                knowledge to optimize algorithms and data structures.
               </code>
             </li>
             <li>
               <code>
-                4. Engineered a substantial 50% improvement in page load times
-                through code refactoring applying advanced DSA knowledge to
-                optimize algorithms and data structures
+                4. Actively engaged in seamlessly integrating the Django
+                back-end with the Angular front-end, ensuring robust data flow,
+                API interactions, and system stability.
               </code>
             </li>
             <li>
               <code>
-                5. Actively engaged in seamlessly integrating the Django
-                back-end with the Angular front-end ensuring robust data flow
-                API interactions and system stability
-              </code>
-            </li>
-            <li>
-              <code>
-                6. Working in an Agile development framework with interactive
-                processes constant feedback loops and close collaboration with
-                all teams and stakeholders to facilitate rapid project progress
-                and exceptional outcomes
+                5. Worked in an Agile development framework, where interactive
+                processes, constant feedback loops, and close collaboration with
+                all teams and stakeholders facilitated rapid project progress
+                and exceptional outcomes.
               </code>
             </li>
           </ol>

@@ -6,6 +6,7 @@ import ExperienceHeader from "./ExperienceHeader";
 import StackPro from "./StackPro";
 import BlockMat from "./BlockMat";
 import ExperienceNav from "./ExperienceNav";
+import Knolskape from "./Knolskape";
 
 const Experience = () => {
   const [showPage, setShowPage] = useState("experienceHeader");
@@ -36,6 +37,8 @@ const Experience = () => {
           <>
             <ExperienceHeader id="experienceHeader" />
           </>
+        ) : showPage === "knolskape" ? (
+          <Knolskape id="knolskape" />
         ) : showPage === "stackpro" ? (
           <StackPro id="stackpro" />
         ) : showPage === "blockmatrix" ? (

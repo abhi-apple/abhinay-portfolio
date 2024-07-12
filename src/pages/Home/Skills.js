@@ -12,6 +12,9 @@ const FirebaseLogo = require("../../assets/logos/FirebaseLogo.png");
 const MongoDBLogo = require("../../assets/logos/MongoDBLogo.png");
 const NodeJSLogo = require("../../assets/logos/NodeJSLogo.png");
 const AngularLogo = require("../../assets/logos/angularLogo.png");
+const Django = require("../../assets/logos/django-icon.png");
+const AWS = require("../../assets/logos/aws-logo.webp");
+const Cpp = require("../../assets/logos/cpp.png");
 
 const About = () => {
   return (
@@ -21,7 +24,6 @@ const About = () => {
     >
       <div className="flex flex-col">
         <div className="flex">
-          {/* Languages Section */}
           <div className="flex-1 mr-8">
             <code className="text-[#e6f1ff]">Languages:</code>
             <div className="grid grid-row-3 gap-2 text-sm mt-5 text-brown_vs">
@@ -48,6 +50,14 @@ const About = () => {
                   className="h-5 w-5 ml-3 mr-4 text-yellow_vs"
                 />
                 <code>TypeScript</code>
+              </div>
+              <div className="flex flex-row mb-3">
+                <img
+                  src={Cpp}
+                  alt="Js Logo"
+                  className="h-5 w-5 ml-3 mr-4 text-yellow_vs"
+                />
+                <code>C++</code>
               </div>
             </div>
           </div>
@@ -79,10 +89,17 @@ const About = () => {
                 />
                 <code>Angular</code>
               </div>
+              <div className="flex flex-row mb-3">
+                <img
+                  src={Django}
+                  alt="Next Logo"
+                  className="h-5 w-5 ml-3 mr-4 text-yellow_vs"
+                />
+                <code>Django</code>
+              </div>
             </div>
           </div>
 
-          {/* Other Technologies Section */}
           <div className="flex-1">
             <code className="text-[#e6f1ff]">Technologies:</code>
             <div className="grid grid-rows-3 gap-2 text-sm mt-5 text-brown_vs">
@@ -109,6 +126,14 @@ const About = () => {
                   className="h-5 w-5 ml-3 mr-4 text-yellow_vs"
                 />
                 <code>NodeJs</code>
+              </div>
+              <div className="flex flex-row mb-3">
+                <img
+                  src={AWS}
+                  alt="Python Logo"
+                  className="h-5 w-5 ml-3 mr-4 bg-white rounded-full object-fill text-yellow_vs"
+                />
+                <code>AWS</code>
               </div>
             </div>
           </div>

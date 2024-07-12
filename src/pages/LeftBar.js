@@ -9,16 +9,17 @@ const MailLogo = require("../assets/logos/MailLogo.png");
 
 const JSIcon = require("../assets/icons/JSIcon.png");
 const TSIcon = require("../assets/icons/TSIcon.png");
-const NextJSIcon = require("../assets/logos/nextjstrans.png"); // Add this import
-const ThreadsLogo = require("../assets/logos/threadslogo.png"); // Add this import
-const HuluLogo = require("../assets/logos/hululogo.png"); // Add this import
-const AppleLogo = require("../assets/logos/applelogo.png"); // Add this import
-const StakProLogo = require("../assets/logos/stackpro.jpeg"); // Add this import
-const BlockLogo = require("../assets/logos/blockmat.png"); // Add this import
-const HomeLogo = require("../assets/logos/homelogo.png"); // Add this import
-const AboutLogo = require("../assets/logos/aboutlogo.png"); // Add this import
-const SkillsLogo = require("../assets/logos/skillslogo.png"); // Add this import
-const ResumeLogo = require("../assets/logos/resumelogo.png"); // Add this import
+const NextJSIcon = require("../assets/logos/nextjstrans.png");
+const ThreadsLogo = require("../assets/logos/threadslogo.png");
+const HuluLogo = require("../assets/logos/hululogo.png");
+const AppleLogo = require("../assets/logos/applelogo.png");
+const StakProLogo = require("../assets/logos/stackpro.jpeg");
+const Knolskape = require("../assets/logos/knolskape.jpeg");
+const BlockLogo = require("../assets/logos/blockmat.png");
+const HomeLogo = require("../assets/logos/homelogo.png");
+const AboutLogo = require("../assets/logos/aboutlogo.png");
+const SkillsLogo = require("../assets/logos/skillslogo.png");
+const ResumeLogo = require("../assets/logos/resumelogo.png");
 const Maill = require("../assets/logos/maill.png");
 
 const LeftBar = ({ showPage, setShowPage, hidePage, setHidePage }) => {
@@ -182,6 +183,11 @@ const LeftBar = ({ showPage, setShowPage, hidePage, setHidePage }) => {
   ];
 
   const experienceDetails = [
+    {
+      icon: Knolskape,
+      altText: "knolskape",
+      projectName: "Software Developer Intern",
+    },
     {
       icon: StakProLogo,
       altText: "stackpro",
