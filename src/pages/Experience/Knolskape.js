@@ -1,5 +1,4 @@
 import React from "react";
-// import { BriefcaseIcon } from "@heroicons/react/solid";
 
 function Knolskape() {
   return (

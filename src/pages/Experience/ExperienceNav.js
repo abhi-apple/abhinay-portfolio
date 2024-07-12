@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import tw from "tailwind-styled-components";
 import { XIcon } from "@heroicons/react/solid";
 
@@ -35,8 +35,6 @@ const ActiveContainer = tw.div`
 `;
 
 const ExperienceNav = ({ showPage, setShowPage, hidePage, setHidePage }) => {
-  // const [hidePage, setHidePage] = useState([]);
-
   return (
     <div className="flex flex-row h-full">
       {showPage === "experienceHeader" ? (

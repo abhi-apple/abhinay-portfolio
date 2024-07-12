@@ -7,9 +7,6 @@ const LinkedinLogo = require("../assets/logos/LinkedinLogo.png");
 const KaggleLogo = require("../assets/logos/Leetcode.webp");
 const MailLogo = require("../assets/logos/MailLogo.png");
 
-const JSIcon = require("../assets/icons/JSIcon.png");
-const TSIcon = require("../assets/icons/TSIcon.png");
-const NextJSIcon = require("../assets/logos/nextjstrans.png");
 const ThreadsLogo = require("../assets/logos/threadslogo.png");
 const HuluLogo = require("../assets/logos/hululogo.png");
 const AppleLogo = require("../assets/logos/applelogo.png");

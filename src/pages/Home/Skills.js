@@ -6,9 +6,7 @@ const TypescriptLogo = require("../../assets/logos/TypescriptLogo.png");
 const JsLogo = require("../../assets/logos/JsLogo.png");
 const NextLogo = require("../../assets/logos/NextLogo.png");
 const TailwindLogo = require("../../assets/logos/TailwindLogo.png");
-const SqlLogo = require("../../assets/logos/SqlLogo.png");
-const ReduxLogo = require("../../assets/logos/ReduxLogo.png");
-const FirebaseLogo = require("../../assets/logos/FirebaseLogo.png");
+
 const MongoDBLogo = require("../../assets/logos/MongoDBLogo.png");
 const NodeJSLogo = require("../../assets/logos/NodeJSLogo.png");
 const AngularLogo = require("../../assets/logos/angularLogo.png");

@@ -1,5 +1,5 @@
 import React from "react";
-import { BriefcaseIcon } from "@heroicons/react/solid";
+
 function StackPro() {
   return (
     <div
